@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "instagram_mqtt": "^1.2.2",
+    "instagram_mqtt": "^1.2.3",
     "instagram-private-api": "^1.45.3",
     "openai": "^4.14.1"
   },
